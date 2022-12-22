@@ -60,7 +60,6 @@ tzlocal
 urllib3                   
 validators                
 watchdog                  
-wheel                     
-xz                        
+wheel                                            
 zipp                      
 zlib                      
