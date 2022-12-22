@@ -36,8 +36,7 @@ pydeck
 pygments                 
 pympler                   
 pyparsing               
-pyrsistent              
-python                   
+pyrsistent                                 
 python-dateutil           
 pytz                      
 pytz-deprecation-shim     
