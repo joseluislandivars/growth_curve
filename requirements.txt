@@ -61,5 +61,4 @@ urllib3
 validators                
 watchdog                  
 wheel                                            
-zipp                      
-zlib                      
+zipp                                            
