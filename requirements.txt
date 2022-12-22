@@ -1,8 +1,7 @@
 altair                    
 attrs                     
 backports-zoneinfo        
-blinker                   
-ca-certificates           
+blinker                            
 cachetools                
 certifi                   
 charset-normalizer        
