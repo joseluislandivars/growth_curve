@@ -24,8 +24,7 @@ markupsafe
 matplotlib                
 mpmath                                      
 numpy                    
-openpyxl                  
-openssl                   
+openpyxl                                     
 packaging                 
 pandas                    
 pillow                    
