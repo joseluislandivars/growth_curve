@@ -47,8 +47,7 @@ scipy
 semver                    
 setuptools                 
 six                      
-smmap                     
-sqlite                    
+smmap                                         
 streamlit                 
 sympy                     
 tk                        
