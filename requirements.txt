@@ -19,8 +19,7 @@ importlib-metadata
 importlib-resources       
 jinja2                   
 jsonschema                
-kiwisolver               
-libffi                   
+kiwisolver                                  
 markupsafe               
 matplotlib                
 mpmath                    
